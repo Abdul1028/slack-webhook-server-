@@ -1,0 +1,17 @@
+{
+  "name": "slack-controller",
+  "version": "1.0.0",
+  "description": "Slack button controller to trigger GitHub workflow",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12",
+    "body-parser": "^1.20.2"
+  }
+}
